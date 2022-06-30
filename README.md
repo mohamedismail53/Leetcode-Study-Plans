@@ -14,6 +14,7 @@
 
 ## Programming Skills
 
+### Programming Skills I
 - Day 1 (Basic Data Type)
   * [1523. Count Odd Numbers in an Interval Range]()
   * [1491. Average Salary Excluding the Minimum and Maximum Salary]()
@@ -36,4 +37,5 @@
   * [1588. Sum of All Odd Length Subarrays]()
   * [283. Move Zeroes]()
   * [1672. Richest Customer Wealth]()
+
 
