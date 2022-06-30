@@ -1,7 +1,7 @@
 # 🧑‍💻 Leetcode-Study-Plans
 > This Repository will contain My Solutions of (Leetcode Study Plans): Programming Skills, Data Structure, Algorithm, Graph Theory, Dynamic Programming, Binary Search, Leetcode 75, and SQL which is a 13 weeks long program that contains 104 programing challenges from top companies & mock tests to assess yourself.  This is your one-stop solution for everything you need to polish your skills and ace your interview. Solutions will be implemented in C++.
 
-- [Programming Skills]()
+- [Programming Skills](https://github.com/mohamedismail53/Leetcode-Study-Plans#programming-skills)
 - [Data Structure]()
 - [Algorithm]()
 - [Graph Theory]()
