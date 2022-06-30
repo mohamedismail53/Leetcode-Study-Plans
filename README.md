@@ -16,7 +16,7 @@
 
 ### Programming Skills I
 - Day 1 (Basic Data Type)
-  * [1523. Count Odd Numbers in an Interval Range]()
+  * [1523. Count Odd Numbers in an Interval Range](/Programming%20Skills/Programming%20Skills%20I/Day_1/1_Count_Odd_Numbers_in_an_Interval_Range.cpp)
   * [1491. Average Salary Excluding the Minimum and Maximum Salary]()
 - Day 2 (Operator)
   *  [191. Number of 1 Bits]()
