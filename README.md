@@ -37,5 +37,8 @@
   * [1588. Sum of All Odd Length Subarrays]()
   * [283. Move Zeroes]()
   * [1672. Richest Customer Wealth]()
-
+  
+- Day 7 (Array)
+  * [1572. Matrix Diagonal Sum]()
+  * [566. Reshape the Matrix]()
 
