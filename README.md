@@ -40,4 +40,8 @@
 - Day 7 (Array)
   * [1572. Matrix Diagonal Sum]()
   * [566. Reshape the Matrix]()
+- Day 8 (String)
+  * [1768. Merge Strings Alternately]()
+  * [1678. Goal Parser Interpretation]()
+  * [389. Find the Difference]()
 
