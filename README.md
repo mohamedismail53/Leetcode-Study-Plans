@@ -44,4 +44,8 @@
   * [1768. Merge Strings Alternately]()
   * [1678. Goal Parser Interpretation]()
   * [389. Find the Difference]()
+- Day 9 (String)
+  * [709. To Lower Case]()
+  * [1309. Decrypt String from Alphabet to Integer Mapping]()
+  * [953. Verifying an Alien Dictionary]()
 
