@@ -48,4 +48,8 @@
   * [709. To Lower Case]()
   * [1309. Decrypt String from Alphabet to Integer Mapping]()
   * [953. Verifying an Alien Dictionary]()
-
+- Day 10 (Linked List & Tree)
+  * [1290. Convert Binary Number in a Linked List to Integer]()
+  * [876. Middle of the Linked List]()
+  * [104. Maximum Depth of Binary Tree]()
+  * [404. Sum of Left Leaves]()
