@@ -3,8 +3,8 @@
 
 - [Programming Skills](https://github.com/mohamedismail53/Leetcode-Study-Plans#programming-skills)
   * [x] Programming Skills I
-  * [] Programming Skills II
-  * [] Programming Skills III
+  * [ ] Programming Skills II
+  * [ ] Programming Skills III
 - [Data Structure]()
 - [Algorithm]()
 - [Graph Theory]()
