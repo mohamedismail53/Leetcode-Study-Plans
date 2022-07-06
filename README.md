@@ -61,3 +61,6 @@
   * [232. Implement Queue using Stacks]()
   * [242. Valid Anagram]()
   * [217. Contains Duplicate]()
+- Day 12 (Class & Object)
+  * [1603. Design Parking System]()
+  * [303. Range Sum Query - Immutable]()
