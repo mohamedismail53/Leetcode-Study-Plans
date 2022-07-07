@@ -64,3 +64,8 @@
 - Day 12 (Class & Object)
   * [1603. Design Parking System]()
   * [303. Range Sum Query - Immutable]()
+
+### Programming Skills II
+- Day 1 
+  * [896. Monotonic Array]()
+  * [28. Implement strStr()]()
