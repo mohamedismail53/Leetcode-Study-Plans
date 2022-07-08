@@ -69,3 +69,6 @@
 - Day 1 
   * [896. Monotonic Array]()
   * [28. Implement strStr()]()
+- Day 2 
+  * [110. Balanced Binary Tree]()
+  * [459. Repeated Substring Pattern]()
