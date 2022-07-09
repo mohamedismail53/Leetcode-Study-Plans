@@ -72,3 +72,6 @@
 - Day 2 
   * [110. Balanced Binary Tree]()
   * [459. Repeated Substring Pattern]()
+- Day 3 
+  * [150. Evaluate Reverse Polish Notation]()
+  * [66. Plus One]()
