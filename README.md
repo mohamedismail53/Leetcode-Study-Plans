@@ -78,3 +78,6 @@
 - Day 4
   * [1367. Linked List in Binary Tree]()
   * [43. Multiply Strings]()
+- Day 5
+  * [67. Add Binary]()
+  * [989. Add to Array-Form of Integer]()
