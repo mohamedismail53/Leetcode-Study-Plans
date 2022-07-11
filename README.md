@@ -75,3 +75,6 @@
 - Day 3 
   * [150. Evaluate Reverse Polish Notation]()
   * [66. Plus One]()
+- Day 4
+  * [1367. Linked List in Binary Tree]()
+  * [43. Multiply Strings]()
