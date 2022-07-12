@@ -81,3 +81,6 @@
 - Day 5
   * [67. Add Binary]()
   * [989. Add to Array-Form of Integer]()
+- Day 6
+  * [739. Daily Temperatures]()
+  * [58. Length of Last Word]()
