@@ -84,3 +84,6 @@
 - Day 6
   * [739. Daily Temperatures]()
   * [58. Length of Last Word]()
+- Day 7
+  * [48. Rotate Image]()
+  * [1886. Determine Whether Matrix Can Be Obtained By Rotation]()
