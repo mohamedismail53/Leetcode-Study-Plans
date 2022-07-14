@@ -87,3 +87,6 @@
 - Day 7
   * [48. Rotate Image]()
   * [1886. Determine Whether Matrix Can Be Obtained By Rotation]()
+- Day 8
+  * [54. Spiral Matrix]()
+  * [973. K Closest Points to Origin]()
