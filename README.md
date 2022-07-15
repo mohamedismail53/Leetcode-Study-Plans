@@ -90,3 +90,6 @@
 - Day 8
   * [54. Spiral Matrix]()
   * [973. K Closest Points to Origin]()
+- Day 9
+  * [1630. Arithmetic Subarrays]()
+  * [429. N-ary Tree Level Order Traversal]()
