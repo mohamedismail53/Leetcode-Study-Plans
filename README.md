@@ -93,3 +93,6 @@
 - Day 9
   * [1630. Arithmetic Subarrays]()
   * [429. N-ary Tree Level Order Traversal]()
+- Day 10
+  * [503. Next Greater Element II]()
+  * [556. Next Greater Element III]()
