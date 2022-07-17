@@ -96,3 +96,6 @@
 - Day 10
   * [503. Next Greater Element II]()
   * [556. Next Greater Element III]()
+- Day 11
+  * [1376. Time Needed to Inform All Employees]()
+  * [49. Group Anagrams]()
